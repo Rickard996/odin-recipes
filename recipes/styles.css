@@ -1,0 +1,23 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #add8e6;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+.description {
+    font-size: 22px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
+
+.list li{
+    text-align: center;
+    font-family: cursive;
+    font-style: italic;
+
+}
